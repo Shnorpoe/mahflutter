@@ -1,12 +1,9 @@
-a
-<img width="1035" height="550" alt="Screenshot 2025-09-06 at 20-39-46 schoolProjectsBL_tes3 js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/ab6b7bca-db5a-44fd-a161-551c20936931" />
-<img width="1455" height="575" alt="Screenshot 2025-09-06 at 20-40-24 schoolProjectsBL_semiTruck js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/99cde87d-fe42-4f2e-9603-6bc5e0d41fd8" />
-<img width="1455" height="1000" alt="Screenshot 2025-09-06 at 20-40-44 schoolProjectsBL_review txt at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/2bd917f0-4fe8-40b1-b01d-404c1aaaacfa" />
-<img width="1360" height="2446" alt="Screenshot 2025-09-06 at 20-41-16 schoolProjectsBL_ovrEnc js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/76d611ad-9eca-4199-ac27-9c2f752a47a4" />
-<img width="1455" height="525" alt="Screenshot 2025-09-06 at 20-41-32 schoolProjectsBL_motorBike js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/0653d6be-cdb9-471f-b93b-a0bda0cb1a8f" />
-<img width="1455" height="475" alt="Screenshot 2025-09-06 at 20-41-38 schoolProjectsBL_luasKeliling dart at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/9687a997-e3b2-452d-8b2b-bd04cd5cc236" />
-<img width="1397" height="14572" alt="Screenshot 2025-09-06 at 20-42-02 schoolProjectsBL_latihan js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/187c9ca0-e502-4b32-a4e3-dc1df0739724" />
-<img width="1455" height="750" alt="Screenshot 2025-09-06 at 20-42-10 schoolProjectsBL_intro js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/151d83de-01f2-44df-b300-0a70c5b09c64" />
-<img width="1448" height="1455" alt="Screenshot 2025-09-06 at 20-42-28 schoolProjectsBL_inheritence js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/1252e453-91ee-4dbb-8d9c-1dd36beff47a" />
-<img width="1455" height="675" alt="Screenshot 2025-09-06 at 20-42-40 schoolProjectsBL_Polystatget at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/bfa94288-aaa8-4663-afd0-d26c502d425a" />
-<img width="1470" height="1461" alt="Screenshot 2025-09-06 at 20-43-01 schoolProjectsBL_Inhericomp js at main · Shnorpoe_schoolProjectsBL" src="https://github.com/user-attachments/assets/2371efa7-10e2-4813-9daa-2250d2fbfcc0" />
+<img width="617" height="945" alt="row" src="https://github.com/user-attachments/assets/4139d944-fd44-4afd-81d9-9133fc800ca7" />
+<img width="617" height="945" alt="pavlova" src="https://github.com/user-attachments/assets/6e5715f4-5f71-4937-be5a-6a193bbc452e" />
+<img width="617" height="945" alt="menu" src="https://github.com/user-attachments/assets/c4b09b1f-93dc-41a9-b2f6-098005a7bc0f" />
+<img width="617" height="945" alt="layout" src="https://github.com/user-attachments/assets/e987eba3-6420-4487-8f48-30008e7963b0" />
+<img width="617" height="945" alt="scaffold" src="https://github.com/user-attachments/assets/55fee638-6419-4369-9a78-9fd2eeacd44b" />
+<img width="617" height="945" alt="column" src="https://github.com/user-attachments/assets/aedbe04d-13ee-4987-bc6e-f307f41d771e" />
+<img width="617" height="945" alt="container" src="https://github.com/user-attachments/assets/f1c255a8-2d99-4e9c-ae23-e5764b9800fe" />
+
+Kode bisa di cek di Vitaloapp 7z
